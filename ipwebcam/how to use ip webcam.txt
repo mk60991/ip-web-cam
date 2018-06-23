@@ -1,0 +1,11 @@
+note:
+both laptop and android must connect in same network
+
+1.
+install ipwebcam.apk in android phone
+2. 
+after ipwebcam.apk in android go to start server
+then click how do connect then connect to wifi directly then we get ip address in ipwebcam apk
+3. then run ipwebcam.py
+4. ip-address  search open in chrome browser
+then  phone camera video show in laptop webcam
